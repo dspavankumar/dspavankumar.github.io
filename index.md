@@ -8,7 +8,7 @@ I work on innovating speech technology solutions in conversational artificial in
 
 ## Experience
 
-[**Uniphore**](https://www.uniphore.com) • _Staff AI Scientist_ • [2021-]
+[**Uniphore**](https://www.uniphore.com) • _Staff AI Scientist_ • <span style="float:right;">[2021 - ]</span>
 
 [**Google**](https://ai.google) • _Research Intern_ • [2020]
 
