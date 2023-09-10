@@ -10,9 +10,9 @@ I work on innovating speech technology solutions in conversational artificial in
 
 [**Google**](https://ai.google) • _Research Intern_ • [2020]
 
-[**Idiap Research Institute**]((https://www.idiap.ch) • _Research Assistant_ • [2017 - 2021]
+[**Idiap Research Institute**](https://www.idiap.ch) • _Research Assistant_ • [2017 - 2021]
 
-[**Interactive Intelligence**]((https://www.genesys.com) • _Senior Speech Engineer_ • [2015 - 2017]
+[**Interactive Intelligence**](https://www.genesys.com) • _Senior Speech Engineer_ • [2015 - 2017]
 
 [**Samsung R&D Institute India**](https://research.samsung.com/sri-b) • _Lead Engineer_ • [2013 - 2015]
 
