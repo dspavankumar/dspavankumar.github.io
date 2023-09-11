@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
-title: Pavan's homepage
-description: "Namaste!"
-
+title: "Pavan's profile"
+description: ""
+gem "github-pages", group: :jekyll_plugins
+# logo: file.png
+# show_downloads: true
+github:
+  is_user_page: true
