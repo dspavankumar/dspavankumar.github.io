@@ -1,0 +1,53 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+input[type=button], button{
+    background-color: #479cd8;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+.hide-on-screen {
+    display:none;
+}
+
+@media print {
+    
+    @page {
+        size: A4;
+    }
+  
+    header h1 {
+        font-size: 16pt;
+    }
+    header h2 {
+        font-size: 14pt;
+    }
+    header h3 {
+        font-size: 12pt;
+    }
+    p {
+        font-size: 11pt;        
+    }
+
+    h1, h2, h3, h4, h5 {
+        page-break-after: avoid;
+    }
+
+    .no-print, .no-print *
+    {
+        display: none;
+    }
+    .hide-on-screen {
+        display:block;
+    }
+    #printPageButton {
+        display: none;
+      }
+}
