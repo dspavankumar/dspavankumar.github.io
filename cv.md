@@ -11,10 +11,8 @@ layout: default
 
 ## Skills
 
-**Tools**: PyTorch, K2/Icefall, Kaldi, Docker
-
-**Programming languages**: Python, C++, Bash
-
+**Tools**: PyTorch, K2/Icefall, Kaldi, Docker \
+**Programming languages**: Python, C++, Bash \
 **Strengths**: Innovation, teamwork, collaboration
 
 ---
@@ -58,4 +56,3 @@ _Bachelor of Engineering (BE)_<span style="float:right;">[2006 - 2010]</span>\
     }
 </script>
 <input id='printPageButton' value='Print CV' type='button' onclick='handlePrint()'>
-<button id='printPageButton' type='button'><a style="color:white;" href="mailto:{{ site.email }}">✉ Email me</a></button>

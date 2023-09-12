@@ -4,9 +4,8 @@
 @import "{{ site.theme }}";
 
 input[type=button], button{
-    background-color: #479cd8;
-    border: none;
-    color: white;
+    background-color: white;
+    border-color: #479cd8;
     padding: 16px 32px;
     text-decoration: none;
     margin: 4px 2px;
@@ -18,26 +17,33 @@ input[type=button], button{
 }
 
 @media print {
-    
     @page {
         size: A4;
+        // margin: 3cm;
     }
   
-    header h1 {
-        font-size: 16pt;
+    h1, h2, h3, h4, h5 {
+        page-break-after: avoid;
+        text-transform: uppercase;
+        margin-top: 4pt;
+        margin-bottom: 2pt;
+        font-family: "Lucida Bright";
     }
-    header h2 {
+
+    h1 {
         font-size: 14pt;
     }
-    header h3 {
+    h2 {
+        font-size: 13pt;
+    }
+    h3 {
         font-size: 12pt;
     }
     p {
-        font-size: 11pt;        
-    }
-
-    h1, h2, h3, h4, h5 {
-        page-break-after: avoid;
+        font-size: 11pt;
+        margin-top: 4pt;
+        margin-bottom: 3pt;
+        font-family: "Futura";
     }
 
     .no-print, .no-print *
