@@ -1,3 +1,10 @@
+---
+layout: default
+---
+
+[⋘ Resume](cv.html)
+{: class="no-print"}
+
 # Publications
 
 ---

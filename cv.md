@@ -2,10 +2,14 @@
 layout: default
 ---
 
-# CV
+[⋘ Home](/) <span style="float:right;">[Publications ⋙](publications.html) </span>
 {: class="no-print"}
 
-<p class="hide-on-screen">I work on innovating speech technology solutions in conversational artificial intelligence at <em>Uniphore</em>, mainly involving end-to-end speech recognition and related areas, both in terms of research and development. I am interested in most aspects of speech processing.</p>
+# Resume
+{: class="no-print"}
+
+I work on innovating speech technology solutions in conversational artificial intelligence at <em>Uniphore</em>, mainly involving end-to-end speech recognition and related areas, both in terms of research and development. I am interested in most aspects of speech processing.
+{: class="hide-on-screen"}
 
 ---
 
@@ -46,8 +50,6 @@ _Master of Science (MS) by Research_<span style="float:right;">[2010 - 2013]</sp
 _Bachelor of Engineering (BE)_<span style="float:right;">[2006 - 2010]</span>\
 **Andhra University**
 
----
-
 <script type="text/javascript">
     const handlePrint = () => {
     var actContents = document.body.innerHTML;
@@ -55,4 +57,4 @@ _Bachelor of Engineering (BE)_<span style="float:right;">[2006 - 2010]</span>\
     window.print();
     }
 </script>
-<input id='printPageButton' value='Print CV' type='button' onclick='handlePrint()'>
+<input id='printPageButton' value='Print/Export' type='button' onclick='handlePrint()'>

@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<span style="float:right;">[Resume ⋙](cv.html) </span>
+
 ### Namaste!
 
 My name is Pavan. You may have also seen me as _S. Pavankumar Dubagunta_ in my work.
