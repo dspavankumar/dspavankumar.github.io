@@ -25,7 +25,7 @@ I work on innovating speech technology solutions in conversational artificial in
 
 [**Uniphore**](https://www.uniphore.com) • _Staff AI Scientist_ <span style="float:right;">[2021 - ]</span>
 
-[**Google**](https://ai.google) • _Research Intern_ <span style="float:right;">[2020]</span> <br>
+[**Google**](https://research.google/locations/zurich/) • _Research Intern_ <span style="float:right;">[2020]</span> <br>
 Worked on a research project with the audio processing team.
 
 [**Idiap Research Institute**](https://www.idiap.ch) • _Research Assistant_ <span style="float:right;">[2017 - 2021]</span> <br>
@@ -42,13 +42,13 @@ Worked on robust feature extraction techniques, implemented data selection techn
 ## Education
 
 _Docteur ès Sciences (PhD)_<span style="float:right;">[2017 - 2021]</span>\
-**École polytechnique fédérale de Lausanne (EPFL)**
+[**École polytechnique fédérale de Lausanne (EPFL)**](https://www.epfl.ch/en/), Electrical Engg.
 
 _Master of Science (MS) by Research_<span style="float:right;">[2010 - 2013]</span>\
-**Indian Institute of Technology Madras**
+[**Indian Institute of Technology Madras**](https://www.iitm.ac.in/), Electrical Engg.
 
 _Bachelor of Engineering (BE)_<span style="float:right;">[2006 - 2010]</span>\
-**Andhra University**
+[**Andhra University**](https://www.andhrauniversity.edu.in/), Electronics and Communication Engg.
 
 <script type="text/javascript">
     const handlePrint = () => {

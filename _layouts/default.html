@@ -11,15 +11,21 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-  </head>
+   </head>
   <body>
     <div class="wrapper">
       <header>
         <h1><a class="no-print" href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         <h1><a class="hide-on-screen" href="{{ "/" | absolute_url }}">{{ site.name }}</a></h1>
-        <p class="hide-on-screen"> <em>{{ site.designation }}</em>, <b>{{ site.organization }}</b>, {{ site.address }} <br>
-          ✉ {{ site.email }} &nbsp; • &nbsp; 🌐 <a href="https://dspavankumar.github.io">https://dspavankumar.github.io</a> </p>
+        <p class="hide-on-screen"> <em>{{ site.designation }}</em>, <b>{{ site.organization }}</b>, {{ site.address }} </p>
+        <p class="hide-on-screen">
+          <i class="fa-solid fa-envelope"></i> <a href="mailto:dspavankumar@gmail.com"> {{ site.email }} </a> &nbsp; • &nbsp;
+          <i class="fa-solid fa-globe"></i> <a href="https://dspavankumar.github.io">https://dspavankumar.github.io</a><br>
+          <i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/pavankumards" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/pavankumards</a> &nbsp; • &nbsp;
+          <i class="fa-brands fa-github"></i> <a href="{{ site.github.owner_url }}" target="_blank" rel="noopener noreferrer">{{ site.github.owner_url }}</a><br>
+          <i class="fa-solid fa-graduation-cap"></i> <span class="graduation-cap"></span> <a href="https://scholar.google.com/citations?user=--k6n58AAAAJ" target="_blank" rel="noopener noreferrer">https://scholar.google.com/citations?user=--k6n58AAAAJ</a>
+        </p>
 
         {% if site.logo %}
           <img class="no-print" src="{{site.logo | relative_url}}" alt="Logo" />
@@ -36,23 +42,13 @@
 
         <p class="view no-print">
             <br>Links<br>
-            <a href="https://www.linkedin.com/in/pavankumards" target="_blank" rel="noopener noreferrer">LinkedIn</a> /
-            <a href="{{ site.github.owner_url }}" target="_blank" rel="noopener noreferrer">GitHub</a> /
-            <a href="https://scholar.google.com/citations?user=--k6n58AAAAJ" target="_blank" rel="noopener noreferrer">Scholar</a> /
-            <a href="https://twitter.com/dspavankumar" target="_blank" rel="noopener noreferrer">Twitter</a>
+            <a href="mailto:dspavankumar@gmail.com"><i class="fa-solid fa-envelope"></i></a> &nbsp; / &nbsp;
+            <a href="https://www.linkedin.com/in/pavankumards" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i></a> &nbsp; / &nbsp;
+            <a href="{{ site.github.owner_url }}" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i></a> &nbsp; / &nbsp;
+            <a href="https://scholar.google.com/citations?user=--k6n58AAAAJ" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-graduation-cap"></i></a> &nbsp; / &nbsp;
+            <a href="https://twitter.com/dspavankumar" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-x-twitter"></i></a>
         </p>
         
-        <p class="view hide-on-screen">
-          LinkedIn: <a href="https://www.linkedin.com/in/pavankumards" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/pavankumards</a><br>
-          GitHub: <a href="{{ site.github.owner_url }}" target="_blank" rel="noopener noreferrer">{{ site.github.owner_url }}</a><br>
-          Scholar: <a href="https://scholar.google.com/citations?user=--k6n58AAAAJ" target="_blank" rel="noopener noreferrer">https://scholar.google.com/citations?user=--k6n58AAAAJ</a>
-        </p>
-
-        <p class="no-print">
-          <br> Contact <br>
-          <a href="mailto:dspavankumar@gmail.com">✉ Email</a>
-        </p>
-
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>

@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.css");
 
 input[type=button], button{
     background-color: white;
@@ -19,6 +20,7 @@ input[type=button], button{
 @media print {
     @page {
         size: A4;
+        margin-bottom: 0;
         // margin: 3cm;
     }
   
@@ -56,4 +58,13 @@ input[type=button], button{
     #printPageButton {
         display: none;
       }
+    hr {
+        display: block;
+        height: 1px;
+        border: 0;
+        border-top: 1px solid #ccc;
+        margin: 0.7em 0;
+        padding: 0;
+        width: 25%;
+    }
 }
