@@ -14,4 +14,4 @@ I work on innovating speech technology solutions in conversational artificial in
 
 ## News
 
-Check out our Interspeech 2023 [paper](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bansal23_interspeech.pdf) on joint speech and emotion recognition.
+Check out our Interspeech 2023 [paper](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bansal23_interspeech.pdf){:target="_blank" rel="noopener noreferrer"} on joint speech and emotion recognition.

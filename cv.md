@@ -23,18 +23,18 @@ I work on innovating speech technology solutions in conversational artificial in
 
 ## Experience
 
-[**Uniphore**](https://www.uniphore.com) • _Staff AI Scientist_ <span style="float:right;">[2021 - ]</span>
+[**Uniphore**](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"} • _Staff AI Scientist_ <span style="float:right;">[2021 - ]</span>
 
-[**Google**](https://research.google/locations/zurich/) • _Research Intern_ <span style="float:right;">[2020]</span> <br>
+[**Google**](https://research.google/locations/zurich/){:target="_blank" rel="noopener noreferrer"} • _Research Intern_ <span style="float:right;">[2020]</span> <br>
 Worked on a research project with the audio processing team.
 
-[**Idiap Research Institute**](https://www.idiap.ch) • _Research Assistant_ <span style="float:right;">[2017 - 2021]</span> <br>
+[**Idiap Research Institute**](https://www.idiap.ch){:target="_blank" rel="noopener noreferrer"} • _Research Assistant_ <span style="float:right;">[2017 - 2021]</span> <br>
 Developed a PhD thesis on automatic speech assessment and recognition.
 
-[**Interactive Intelligence**](https://www.genesys.com) • _Senior Speech Engineer_ <span style="float:right;">[2015 - 2017]</span> <br>
+[**Interactive Intelligence**](https://www.genesys.com){:target="_blank" rel="noopener noreferrer"} • _Senior Speech Engineer_ <span style="float:right;">[2015 - 2017]</span> <br>
 Worked on building ASR models for six languages that went into the commercial product for small vocabulary ASR systems. Worked on deep learning techniques for improved efficacy and analysed ASR hypotheses to improve lexicons, LMs and phone definitions.
 
-[**Samsung R&D Institute India**](https://research.samsung.com/sri-b) • _Lead Engineer_ <span style="float:right;">[2013 - 2015]</span> <br>
+[**Samsung R&D Institute India**](https://research.samsung.com/sri-b){:target="_blank" rel="noopener noreferrer"} • _Lead Engineer_ <span style="float:right;">[2013 - 2015]</span> <br>
 Worked on robust feature extraction techniques, implemented data selection techniques for ASR training, built and tested acoustic models using large data for multiple languages.
 
 ---
@@ -42,13 +42,13 @@ Worked on robust feature extraction techniques, implemented data selection techn
 ## Education
 
 _Docteur ès Sciences (PhD)_<span style="float:right;">[2017 - 2021]</span>\
-[**École polytechnique fédérale de Lausanne (EPFL)**](https://www.epfl.ch/en/), Electrical Engg.
+[**École polytechnique fédérale de Lausanne (EPFL)**](https://www.epfl.ch/en/){:target="_blank" rel="noopener noreferrer"}, Electrical Engg.
 
 _Master of Science (MS) by Research_<span style="float:right;">[2010 - 2013]</span>\
-[**Indian Institute of Technology Madras**](https://www.iitm.ac.in/), Electrical Engg.
+[**Indian Institute of Technology Madras**](https://www.iitm.ac.in/){:target="_blank" rel="noopener noreferrer"}, Electrical Engg.
 
 _Bachelor of Engineering (BE)_<span style="float:right;">[2006 - 2010]</span>\
-[**Andhra University**](https://www.andhrauniversity.edu.in/), Electronics and Communication Engg.
+[**Andhra University**](https://www.andhrauniversity.edu.in/){:target="_blank" rel="noopener noreferrer"}, Electronics and Communication Engg.
 
 <script type="text/javascript">
     const handlePrint = () => {
