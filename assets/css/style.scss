@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css");
+@import url('https://fonts.googleapis.com/css?family=Mooli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto Sans Telugu&display=swap');
 
 input[type=button], button{
     background-color: white;
@@ -13,6 +15,11 @@ input[type=button], button{
     cursor: pointer;
   }
 
+body {
+    font-family: Mooli, Noto Sans Telugu, Georgia, 'Times New Roman', Times, sans-serif;
+    font-size: 14px;
+}
+
 .hide-on-screen {
     display:none;
 }
@@ -21,7 +28,7 @@ input[type=button], button{
     @page {
         size: A4;
         margin-bottom: 0;
-        // margin: 3cm;
+        margin: 0.5cm;
     }
   
     h1, h2, h3, h4, h5 {
@@ -29,7 +36,7 @@ input[type=button], button{
         text-transform: uppercase;
         margin-top: 4pt;
         margin-bottom: 2pt;
-        font-family: "Lucida Bright";
+        font-family: "Mooli";
     }
 
     h1 {
@@ -45,7 +52,7 @@ input[type=button], button{
         font-size: 11pt;
         margin-top: 4pt;
         margin-bottom: 3pt;
-        font-family: "Futura";
+        font-family: "Mooli";
     }
 
     .no-print, .no-print *

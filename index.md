@@ -2,16 +2,28 @@
 layout: default
 ---
 
-<span style="float:right;">[Resume ⋙](cv.html) </span>
+<span style="float:right;">[Resume ⋙](resume.html) </span>
 
 ### Namaste!
 
-My name is Pavan. You may have also seen me as _S. Pavankumar Dubagunta_ in my work.
+I am Pavan. You may have also seen me as _S. Pavankumar Dubagunta_ in my work.
 
 I work on innovating speech technology solutions in conversational artificial intelligence at _Uniphore_, mainly involving end-to-end speech recognition and related areas, both in terms of research and development. I am interested in most aspects of speech processing.
+
+If you are a student looking for internships in the above areas, please reach out to me via [email](mailto:dspavankumar@gmail.com).
 
 * * *
 
 ## News
 
 Check out our Interspeech 2023 [paper](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bansal23_interspeech.pdf){:target="_blank" rel="noopener noreferrer"} on joint speech and emotion recognition.
+
+* * *
+
+### నమస్తే!
+
+నా పేరు పవన్. మీరు నన్ను _ఎస్. పవన్‌కుమర్ దూబగుంట_ గా కూడా చూసి ఉంటారు.
+
+నేను _యూనీఫోర్‌_ లో సంభాషణాత్మక కృత్రిమ మేధస్సుకు చెందిన ప్రసంగ సాంకేతికత అంశాలపై పరిశోధన మరియు అభివృద్ధి చేస్తాను. ఆద్యంత స్వయంచాలక ప్రసంగ వచన మరియు సంబంధిత ప్రక్రియలలోని చాలా అంశాలపై నాకు ఆసక్తి ఉంది.
+
+మీరు పై అంశాలపై అంతర్విద్య కోసం చూస్తున్న విద్యార్థి అయితే [ఇమెయిల్](mailto:dspavankumar@gmail.com) ద్వారా నన్ను సంప్రదించగలరు.

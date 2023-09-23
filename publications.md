@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[⋘ Resume](cv.html)
+[⋘ Resume](resume.html)
 {: class="no-print"}
 
 # Publications

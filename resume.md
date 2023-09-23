@@ -50,6 +50,14 @@ _Master of Science (MS) by Research_<span style="float:right;">[2010 - 2013]</sp
 _Bachelor of Engineering (BE)_<span style="float:right;">[2006 - 2010]</span>\
 [**Andhra University**](https://www.andhrauniversity.edu.in/){:target="_blank" rel="noopener noreferrer"}, Electronics and Communication Engg.
 
+---
+
+## Professional Services
+
+**Reviewer** at ICASSP, Interspeech, ASRU, SLT, WASPAA and ICMI. <br>
+**Chaired** a session on Speech Signal Analysis at Interspeech 2023.
+
+
 <script type="text/javascript">
     const handlePrint = () => {
     var actContents = document.body.innerHTML;
