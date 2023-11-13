@@ -8,7 +8,7 @@ layout: default
 # Resume
 {: class="no-print"}
 
-I work on innovating speech technology solutions in conversational artificial intelligence at <em>Uniphore</em>, mainly involving end-to-end speech recognition and related areas, both in terms of research and development. I am interested in most aspects of speech processing.
+I  serve as a _tech lead manager_ in innovating speech technology solutions in conversational artificial intelligence at <em>[Uniphore](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"}</em>, mainly involving end-to-end speech recognition and related areas, both in terms of research and development. I am interested in most aspects of speech processing.
 {: class="hide-on-screen"}
 
 ---
