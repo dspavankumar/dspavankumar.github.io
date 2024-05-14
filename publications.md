@@ -9,6 +9,10 @@ layout: default
 
 ---
 
+### 2024
+
+Shashi Kumar, Srikanth Madikeri, Nigmatulina Iuliia, Esaú VILLATORO-TELLO, Petr Motlicek, Karthik Pandia D S, S. Pavankumar Dubagunta and Aravind Ganapathiraju, "Multitask Speech Recognition and Speaker Change Detection for Unknown Number of Speakers,"  in _Proceedings of ICASSP_. [[DOI](https://doi.org/10.1109/icassp48485.2024.10446130){:target="_blank" rel="noopener noreferrer"}]
+
 ### 2023
 
 Lokesh Bansal, S. Pavankumar Dubagunta, Malolan Chetlur, Pushpak Jagtap, and Aravind Ganapathiraju, "On the Efficacy and Noise-Robustness of Jointly Learned Speech Emotion and Automatic Speech Recognition," in _Proceedings of Interspeech_. [[PDF](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bansal23_interspeech.pdf){:target="_blank" rel="noopener noreferrer"}]
