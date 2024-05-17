@@ -53,6 +53,13 @@ _Bachelor of Engineering (BE)_<span style="float:right;">[2006 - 2010]</span>\
 
 ---
 
+## Certifications
+
+* **Business Concept**, [startup training by Innosuisse](https://www.innosuisse.ch/inno/en/home/start-and-grow-your-business/start-up-training/start-up-training_modul2.html){:target="_blank" rel="noopener noreferrer"}, 2020.
+* **Manager Development Program** from Uniphore, 2023.
+
+---
+
 ## Professional Services and Outreach
 
 * **Reviewer** at ICASSP, Interspeech, ASRU, SLT, WASPAA and ICMI. <br>
