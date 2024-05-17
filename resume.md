@@ -104,6 +104,9 @@ _Bachelor of Engineering (BE)_<span style="float:right;">[2006 - 2010]</span>\
 * S. Pavankumar Dubagunta, "Novel Methods for Incorporating Prior Knowledge for Automatic Speech Assessment," PhD thesis, _École polytechnique fédérale de Lausanne (EPFL)_. [[PDF](https://infoscience.epfl.ch/record/288398/files/EPFL_TH8793.pdf){:target="_blank" rel="noopener noreferrer"}] [[Talk](https://youtu.be/ADXyOBlnruc){:target="_blank" rel="noopener noreferrer"}]
 {: class="hide-on-screen"}
 
+(Full list at [https://scholar.google.com/citations?user=--k6n58AAAAJ](https://scholar.google.com/citations?user=--k6n58AAAAJ}){:target="_blank" rel="noopener noreferrer"})
+{: class="hide-on-screen"}
+
 <script type="text/javascript">
     const handlePrint = () => {
     var actContents = document.body.innerHTML;
