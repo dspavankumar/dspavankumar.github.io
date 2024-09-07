@@ -8,7 +8,7 @@ layout: default
 # Resume
 {: class="no-print"}
 
-I  serve as a _tech lead manager_ in innovating speech and conversational AI solutions at <em>[Uniphore](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"}</em>, mainly with end-to-end speech recognition, language modelling and related areas, in terms of research and engineering. I am interested in most aspects of speech and language processing.
+I lead innovation in speech and conversational AI solutions at <em>[Uniphore](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"}</em>, focusing on end-to-end speech recognition, personalization, and related areas. My responsibilities span research, engineering, and taking projects to production, while managing and guiding the team. I am passionate about all aspects of speech and language processing.
 {: class="hide-on-screen"}
 
 ---
@@ -16,9 +16,9 @@ I  serve as a _tech lead manager_ in innovating speech and conversational AI sol
 ## Skills
 
 **Tools**: PyTorch/Tensorflow, [k2/icefall](https://k2-fsa.github.io/icefall/){:target="_blank" rel="noopener noreferrer"}, [sherpa-onnx](https://k2-fsa.github.io/sherpa/onnx/index.html){:target="_blank" rel="noopener noreferrer"}, kaldi \
-**Deployment and automation**: Docker, Kubernetes, Kafka, Websockets, FastAPI, Git, Jira \
+**Deployment and automation**: Docker, Kubernetes, Apache Kafka, Websockets, FastAPI, Git, Jira \
 **Programming languages**: Python, C++, Bash \
-**Leadership strengths**: Innovation, teamwork, collaboration
+**Leadership strengths**: Innovation, idea prioritization & execution, teamwork, collaboration
 
 ---
 
@@ -33,10 +33,10 @@ Worked on a research project with the audio processing team.
 Developed a PhD thesis on automatic speech assessment and recognition.
 
 [**Interactive Intelligence**](https://www.genesys.com){:target="_blank" rel="noopener noreferrer"} • _Senior Speech Engineer_ <span style="float:right;">[2015 - 2017]</span> <br>
-Built production-grade ASR models in multiple languages for small vocabulary ASR systems. Worked on acoustic modelling for improved efficacy and on mitigating systematic ASR errors.
+Built production-grade ASR models in multiple languages, enhancing acoustic modelling to improve efficacy, while reducing systematic ASR errors.
 
 [**Samsung R&D Institute India**](https://research.samsung.com/sri-b){:target="_blank" rel="noopener noreferrer"} • _Lead Engineer_ <span style="float:right;">[2013 - 2015]</span> <br>
-Worked on robust feature extraction techniques, implemented data selection techniques for ASR training, built and tested acoustic models using large data for multiple languages.
+Developed robust feature extraction techniques and implemented data selection methods, and improved acoustic models across multiple languages.
 
 ---
 

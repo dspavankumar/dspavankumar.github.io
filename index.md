@@ -8,7 +8,7 @@ layout: default
 
 I am Pavan. You may have also seen me as _S. Pavankumar Dubagunta_ in my work.
 
-I  serve as a _tech lead manager_ in innovating speech and conversational AI solutions at [Uniphore](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"}, mainly with end-to-end speech recognition, language modelling and related areas, in terms of research and engineering. I am interested in most aspects of speech and language processing.
+I lead innovation in speech and conversational AI solutions at <em>[Uniphore](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"}</em>, focusing on end-to-end speech recognition, personalization, and related areas. My responsibilities span research, engineering, and taking projects to production, while managing and guiding the team. I am passionate about all aspects of speech and language processing.
 
 If you are a student looking for industrial internships in the above areas, please reach out to me via [email](mailto:dspavankumar@gmail.com).
 
