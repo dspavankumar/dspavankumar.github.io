@@ -7,7 +7,7 @@ gem "github-pages", group: :jekyll_plugins
 github:
   is_user_page: true
 name: "S. Pavankumar Dubagunta"
-designation: "Staff AI Scientist"
-organization: "Uniphore Software Systems"
+designation: "Applied Scientist II"
+organization: "Amazon Development Centre"
 email: "dspavankumar@gmail.com"
 address: "Bengaluru, India"

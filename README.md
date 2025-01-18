@@ -1,4 +1,1 @@
-
-To execute, run:
-
-    bundle exec jekyll serve
+To execute, run: `bundle exec jekyll serve`

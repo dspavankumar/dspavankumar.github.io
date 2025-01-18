@@ -8,13 +8,13 @@ layout: default
 
 I am Pavan. You may have also seen me as _S. Pavankumar Dubagunta_ in my work.
 
-I lead innovation in speech and conversational AI solutions at <em>[Uniphore](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"}</em>, focusing on end-to-end speech recognition, personalization, and related areas. My responsibilities span research, engineering, and taking projects to production, while managing and guiding the team. I am passionate about all aspects of speech and language processing.
-
-If you are a student looking for industrial internships in the above areas, please reach out to me via [email](mailto:dspavankumar@gmail.com).
+I have recently moved to <em>[Amazon](https://www.amazon.science){:target="_blank" rel="noopener noreferrer"}</em> to work on Artificial General Intelligence. Until recently, I lead innovation in speech and conversational AI solutions at <em>[Uniphore](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"}</em>, focusing on end-to-end speech recognition, personalization, and related areas. My responsibilities spanned research, engineering, and taking projects to production, while managing and guiding the team. I am passionate about all aspects of speech and language processing.
 
 <!-- * * *
 
 ## News
+
+If you are a student looking for industrial internships in the above areas, please reach out to me via [email](mailto:dspavankumar@gmail.com).
 
 Check out our Interspeech 2023 [paper](https://www.isca-speech.org/archive/pdfs/interspeech_2023/bansal23_interspeech.pdf){:target="_blank" rel="noopener noreferrer"} on joint speech and emotion recognition.
 

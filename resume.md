@@ -8,7 +8,7 @@ layout: default
 # Resume
 {: class="no-print"}
 
-I lead innovation in speech and conversational AI solutions at <em>[Uniphore](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"}</em>, focusing on end-to-end speech recognition, personalization, and related areas. My responsibilities span research, engineering, and taking projects to production, while managing and guiding the team. I am passionate about all aspects of speech and language processing.
+I work on Artificial General Intelligence at <em>[Amazon](https://www.amazon.science){:target="_blank" rel="noopener noreferrer"}</em>. I am passionate about all aspects of speech and language processing.
 {: class="hide-on-screen"}
 
 ---
@@ -24,7 +24,9 @@ I lead innovation in speech and conversational AI solutions at <em>[Uniphore](ht
 
 ## Experience
 
-[**Uniphore**](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"} • _Staff AI Scientist_ <span style="float:right;">[2021 - Present]</span>
+[**Amazon**](https://amazon.science){:target="_blank" rel="noopener noreferrer"} • _Applied Scientist II_ <span style="float:right;">[2025 - Present]</span>
+
+[**Uniphore**](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"} • _Staff AI Scientist_ <span style="float:right;">[2021 - 2025]</span> <br> Technical and team leadership, focusing on end-to-end speech recognition, personalization, and related areas for conversational AI.
 
 [**Google**](https://research.google/locations/zurich/){:target="_blank" rel="noopener noreferrer"} • _Research Intern_ <span style="float:right;">[2020]</span> <br>
 Worked on a research project with the audio processing team.
