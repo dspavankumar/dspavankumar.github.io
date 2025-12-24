@@ -9,6 +9,9 @@ layout: default
 
 ---
 
+### 2025
+Anandh C, Karthik Pandia Durai, Jeena Prakash, Manickavela Arumugam, Kadri Hacioglu, S.Pavankumar Dubagunta, Andreas Stolcke, Shankar Venkatesan, Aravind Ganapathiraju, "Improving endpoint detection in end-to-end streaming ASR for conversational speech", arXiv preprint arXiv:2505.17070. [[PDF]](https://arxiv.org/pdf/2505.17070)
+
 ### 2024
 
 Shashi Kumar, Srikanth Madikeri, Nigmatulina Iuliia, Esaú Villatoro-Tello, Petr Motlicek, Karthik Pandia D S, S. Pavankumar Dubagunta and Aravind Ganapathiraju, "Multitask Speech Recognition and Speaker Change Detection for Unknown Number of Speakers,"  in _Proceedings of ICASSP_. [[DOI](https://doi.org/10.1109/icassp48485.2024.10446130){:target="_blank" rel="noopener noreferrer"}]

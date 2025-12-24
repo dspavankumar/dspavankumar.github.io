@@ -8,8 +8,8 @@ layout: default
 # Resume
 {: class="no-print"}
 
-I work on Artificial General Intelligence at <em>[Amazon](https://www.amazon.science){:target="_blank" rel="noopener noreferrer"}</em>. I am passionate about all aspects of speech and language processing.
-{: class="hide-on-screen"}
+I currently work on optimizing the performance of LLMs at <em>[AMD](https://www.amd.com){:target="_blank" rel="noopener noreferrer"}</em>. I am passionate about all aspects of speech and language processing.
+{: class="hide-on-screen intro"}
 
 ---
 
@@ -24,7 +24,9 @@ I work on Artificial General Intelligence at <em>[Amazon](https://www.amazon.sci
 
 ## Experience
 
-[**Amazon**](https://amazon.science){:target="_blank" rel="noopener noreferrer"} • _Applied Scientist II_ <span style="float:right;">[2025 - Present]</span>
+[**AMD**](https://www.amd.com){:target="_blank" rel="noopener noreferrer"} • _Senior Member of Technical Staff_ <span style="float:right;">[2025 - Present]</span>
+
+[**Amazon**](https://amazon.science){:target="_blank" rel="noopener noreferrer"} • _Applied Scientist II_ <span style="float:right;">[2025]</span> <br> Focused on LLM-based speech-to-speech models.
 
 [**Uniphore**](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"} • _Staff AI Scientist_ <span style="float:right;">[2021 - 2025]</span> <br> Technical and team leadership, focusing on end-to-end speech recognition, personalization, and related areas for conversational AI.
 
@@ -64,11 +66,11 @@ _Bachelor of Engineering (BE)_<span style="float:right;">[2006 - 2010]</span>\
 
 ## Professional Services and Outreach
 
+* **Invited speaker** at the IEEE Workshop on <em> Bridging Languages with Generative Models: Advances in Speech Translation </em>, IIT Indore, December 2025.
 * **Reviewer** at ICASSP, Interspeech, ASRU, SLT, WASPAA and ICMI. <br>
 * **Chaired** a session on Speech Signal Analysis at ISCA Interspeech 2023. <br>
 * **Participated** in [IndiaAI roundtable](https://indiaai.gov.in/research-reports/impact-opportunity-and-challenges-of-generative-ai){:target="_blank" rel="noopener noreferrer"} on Generative AI, April 2023. <br>
-* **Interviewed** by [IndiaAI](https://indiaai.gov.in/article/basic-mathematics-is-essential-for-ai-dr-s-pavankumar-dubagunta-a-staff-speech-scientist-at-uniphore){:target="_blank" rel="noopener noreferrer"}, May 2022.
-* **Interviewed** by [The Interview Portal](https://theinterviewportal.com/2023/02/20/speech-recognition-professional-interview/){:target="_blank" rel="noopener noreferrer"}, Feb. 2023.
+* **Interviewed** by [IndiaAI](https://indiaai.gov.in/article/basic-mathematics-is-essential-for-ai-dr-s-pavankumar-dubagunta-a-staff-speech-scientist-at-uniphore){:target="_blank" rel="noopener noreferrer"}, May 2022, and [The Interview Portal](https://theinterviewportal.com/2023/02/20/speech-recognition-professional-interview/){:target="_blank" rel="noopener noreferrer"}, Feb. 2023.
 
 ---
 {: class="hide-on-screen"}

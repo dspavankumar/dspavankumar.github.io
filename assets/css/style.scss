@@ -18,6 +18,16 @@ input[type=button], button{
 body {
     font-family: Nunito, Noto Sans Telugu, Georgia, 'Times New Roman', Times, sans-serif;
     font-size: 14px;
+    background-color: #121212;
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+
+strong, b {
+    color: #ffffff;
 }
 
 .hide-on-screen {
@@ -33,12 +43,18 @@ body {
         margin-right: 0.1cm;
     }
   
+    body {
+        background-color: white;
+        color: black;
+    }
+
     h1, h2, h3, h4, h5 {
         page-break-after: avoid;
         text-transform: uppercase;
         margin-top: 4pt;
         margin-bottom: 2pt;
         font-family: "Nunito";
+        color: black;
     }
 
     h1 {
@@ -55,6 +71,10 @@ body {
         margin-top: 4pt;
         margin-bottom: 3pt;
         font-family: "Nunito";
+    }
+
+    strong, b {
+        color: #000000;
     }
 
     .no-print, .no-print *

@@ -8,7 +8,7 @@ layout: default
 
 I am Pavan. You may have also seen me as _S. Pavankumar Dubagunta_ in my work.
 
-I have recently moved to <em>[Amazon](https://www.amazon.science){:target="_blank" rel="noopener noreferrer"}</em> to work on Artificial General Intelligence. Until recently, I lead innovation in speech and conversational AI solutions at <em>[Uniphore](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"}</em>, focusing on end-to-end speech recognition, personalization, and related areas. My responsibilities spanned research, engineering, and taking projects to production, while managing and guiding the team. I am passionate about all aspects of speech and language processing.
+I currently work on optimizing the performance of LLMs at <em>[AMD](https://www.amd.com){:target="_blank" rel="noopener noreferrer"}</em>. Prior to this, I worked at <em>[Amazon](https://www.amazon.science)</em> in improving LLM-based speech-to-speech models, and also lead innovation in speech and conversational AI solutions at <em>[Uniphore](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"}</em>, focusing on end-to-end speech recognition, personalization, and related areas. My responsibilities span innovation, engineering, and taking projects to production. I am passionate about all aspects of speech and language processing.
 
 <!-- * * *
 
