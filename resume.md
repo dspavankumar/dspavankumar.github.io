@@ -8,7 +8,7 @@ layout: default
 # Resume
 {: class="no-print"}
 
-I currently work on optimizing the performance of LLMs at <em>[AMD](https://www.amd.com){:target="_blank" rel="noopener noreferrer"}</em>. I am passionate about all aspects of speech and language processing.
+I currently work on optimizing deep learning kernels using LLM agents at <em>[AMD](https://www.amd.com){:target="_blank" rel="noopener noreferrer"}</em>. I am passionate about all aspects of speech and language processing.
 {: class="hide-on-screen intro"}
 
 ---
