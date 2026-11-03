@@ -6,47 +6,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Noto+Sans+Telugu&display=swap">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
     {% include head-custom.html %}
    </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1><a class="no-print" href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        <h1><a class="hide-on-screen" href="{{ "/" | absolute_url }}">{{ site.name }}</a></h1>
-        <p class="hide-on-screen"> <em>{{ site.designation }}</em>, <b>{{ site.organization }}</b>, {{ site.address }} </p>
-        <p class="hide-on-screen">
-          <i class="fa-solid fa-envelope"></i> <a href="mailto:dspavankumar@gmail.com"> {{ site.email }} </a> &nbsp; • &nbsp;
-          <i class="fa-solid fa-globe"></i> <a href="https://dspavankumar.github.io">https://dspavankumar.github.io</a><br>
-          <i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/pavankumards" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/pavankumards</a> &nbsp; • &nbsp;
-          <i class="fa-brands fa-github"></i> <a href="{{ site.github.owner_url }}" target="_blank" rel="noopener noreferrer">{{ site.github.owner_url }}</a><br>
-          <i class="fa-solid fa-graduation-cap"></i> <span class="graduation-cap"></span> <a href="https://scholar.google.com/citations?user=--k6n58AAAAJ" target="_blank" rel="noopener noreferrer">https://scholar.google.com/citations?user=--k6n58AAAAJ</a>
-        </p>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.name }}</a></h1>
+        <p class="role"><em>{{ site.designation }}</em>, <b>{{ site.organization }}</b></p>
 
         {% if site.logo %}
-          <img class="no-print" src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p class="no-print">{{ site.description | default: site.github.project_tagline }}</p>
-        <p class="view no-print">
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p class="view">
             <br>
             Navigation <br>
-            <a style="font-size: 16px;" href="/">Home</a> /
-            <a style="font-size: 16px;" href="/resume.html">Resume</a> /
-            <a style="font-size: 16px;" href="/publications.html">Publications</a>
+            <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="/">Home</a> /
+            <a class="nav-link{% if page.url == '/resume.html' %} active{% endif %}" href="/resume.html">Resume</a> /
+            <a class="nav-link{% if page.url == '/publications.html' %} active{% endif %}" href="/publications.html">Publications</a>
         </p>
 
-        <p class="view no-print">
+        <p class="view social">
             <br>Links<br>
-            <a href="mailto:dspavankumar@gmail.com"><i style="font-size: 20px;" class="fa-solid fa-envelope"></i></a> &nbsp; / &nbsp;
-            <a href="https://www.linkedin.com/in/pavankumards" target="_blank" rel="noopener noreferrer"><i style="font-size: 20px;" class="fa-brands fa-linkedin"></i></a> &nbsp; / &nbsp;
-            <a href="{{ site.github.owner_url }}" target="_blank" rel="noopener noreferrer"><i style="font-size: 20px;" class="fa-brands fa-github"></i></a> &nbsp; / &nbsp;
-            <a href="https://scholar.google.com/citations?user=--k6n58AAAAJ" target="_blank" rel="noopener noreferrer"><i style="font-size: 20px;" class="fa-solid fa-graduation-cap"></i></a> &nbsp; / &nbsp;
-            <a href="https://dspavankumar.blogspot.com" target="_blank" rel="noopener noreferrer"><i style="font-size: 20px;" class="fa-brands fa-blogger"></i></a>
+            <a href="mailto:dspavankumar@gmail.com" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
+            <a href="https://www.linkedin.com/in/pavankumards" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+            <a href="{{ site.github.owner_url }}" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+            <a href="https://scholar.google.com/citations?user=--k6n58AAAAJ" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar"><i class="fa-solid fa-graduation-cap"></i></a>
+            <a href="https://dspavankumar.blogspot.com" target="_blank" rel="noopener noreferrer" aria-label="Blog"><i class="fa-brands fa-blogger"></i></a>
         </p>
         
         {% if site.show_downloads %}
@@ -62,7 +53,7 @@
       {{ content }}
 
       </section>
-      <footer class="no-print">
+      <footer>
         <p><small>Hosted on GitHub Pages &mdash; Theme based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>

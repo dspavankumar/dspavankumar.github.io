@@ -2,8 +2,7 @@
 layout: default
 ---
 
-[⋘ Resume](resume.html)
-{: class="no-print"}
+<div class="nav-row"><a class="btn" href="resume.html">⋘ Resume</a></div>
 
 # Publications
 
