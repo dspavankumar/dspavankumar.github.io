@@ -4,12 +4,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem('theme');
+          if (t === 'light' || t === 'dark') {
+            document.documentElement.setAttribute('data-theme', t);
+          }
+        } catch (e) {}
+      })();
+    </script>
 
 {% seo %}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Noto+Sans+Telugu&display=swap">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="icon" type="image/svg+xml" href="{{ "/assets/favicon.svg" | relative_url }}">
+    <meta name="theme-color" content="#121212">
     {% include head-custom.html %}
    </head>
   <body>
@@ -22,7 +34,6 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
         <p class="view">
             <br>
             Navigation <br>
@@ -54,9 +65,39 @@
 
       </section>
       <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme based on <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Toggle light or dark theme" title="Toggle light/dark theme">
+          <i id="theme-toggle-icon" class="fa-solid fa-sun"></i>
+        </button>
+        <p><small>Hosted on GitHub Pages &mdash; Theme based on <a href="https://github.com/pages-themes/minimal">Minimal</a> by <a href="https://github.com/orderedlist/minimal">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      (function () {
+        var btn = document.getElementById('theme-toggle');
+        var icon = document.getElementById('theme-toggle-icon');
+        if (!btn) return;
+
+        function effectiveTheme() {
+          var attr = document.documentElement.getAttribute('data-theme');
+          if (attr === 'light' || attr === 'dark') return attr;
+          return window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
+        }
+
+        function syncIcon() {
+          if (!icon) return;
+          icon.className = effectiveTheme() === 'light' ? 'fa-solid fa-moon' : 'fa-solid fa-sun';
+        }
+
+        syncIcon();
+
+        btn.addEventListener('click', function () {
+          var next = effectiveTheme() === 'light' ? 'dark' : 'light';
+          document.documentElement.setAttribute('data-theme', next);
+          try { localStorage.setItem('theme', next); } catch (e) {}
+          syncIcon();
+        });
+      })();
+    </script>
   </body>
 </html>

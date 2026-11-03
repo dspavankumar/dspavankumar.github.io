@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css");
 
-:root {
+@mixin theme-dark {
     color-scheme: dark;
     --bg: #121212;
     --surface: #1c1c1f;
@@ -16,6 +16,30 @@
     --accent-hover: #8cc6f2;
     --name-box: #26262b;
 }
+
+@mixin theme-light {
+    color-scheme: light;
+    --bg: #ffffff;
+    --surface: #f3f4f6;
+    --border: #d7dbe0;
+    --text: #1f2328;
+    --muted: #57606a;
+    --heading: #0d1117;
+    --accent: #0969da;
+    --accent-hover: #0a5cc0;
+    --name-box: #eaf1fb;
+}
+
+/* Default: dark. No manual choice -> follow the OS preference. */
+:root { @include theme-dark; }
+
+@media (prefers-color-scheme: light) {
+    :root:not([data-theme]) { @include theme-light; }
+}
+
+/* Manual override via the toggle button (persisted in localStorage). */
+:root[data-theme="light"] { @include theme-light; }
+:root[data-theme="dark"] { @include theme-dark; }
 
 /* ---------- Base ---------- */
 html, body {
@@ -148,6 +172,27 @@ header .role {
     color: var(--muted);
     font-size: 0.95em;
     margin-top: 0.2em;
+}
+
+.theme-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.2em;
+    height: 2.2em;
+    margin: 0 0 0.6em;
+    padding: 0;
+    border: 1px solid var(--border);
+    border-radius: 50%;
+    background-color: var(--surface);
+    color: var(--text);
+    cursor: pointer;
+    transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.theme-toggle:hover {
+    background-color: var(--accent);
+    color: var(--bg);
 }
 
 header .view {

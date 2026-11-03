@@ -12,7 +12,6 @@ I am Pavan. I currently work on optimizing deep learning model inference and GPU
 
 [**GEAK**](https://github.com/AMD-AGI/GEAK){:target="_blank" rel="noopener noreferrer"} • Autonomous multi-agent system that makes AMD GPUs run faster — it profiles the underlying kernels of a given model in a vLLM/SGLang serving stack, then generates, tunes, and validates optimized kernels across Triton, HIP, FlyDSL and other languages. [[GEAK v4](https://www.amd.com/en/developer/resources/technical-articles/2026/geak-v4.html){:target="_blank" rel="noopener noreferrer"}] [[GEAK v3](https://rocm.blogs.amd.com/artificial-intelligence/kernel-optimization-agent/README.html){:target="_blank" rel="noopener noreferrer"}]
 
-
 ---
 
 Prior to this, I worked at <em>[Amazon](https://www.amazon.science){:target="_blank" rel="noopener noreferrer"}</em> in improving LLM-based speech-to-speech models, and also lead innovation in speech and conversational AI solutions at <em>[Uniphore](https://www.uniphore.com){:target="_blank" rel="noopener noreferrer"}</em>, focusing on end-to-end speech recognition, personalization, and related areas. My responsibilities span innovation, engineering, and taking projects to production. I am passionate about all aspects of Agentic AI, speech and language processing.

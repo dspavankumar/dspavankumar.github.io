@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: "Pavan's profile"
-description: ""
+title: "S. Pavankumar Dubagunta"
+description: "Senior Member of Technical Staff at AMD, working on agentic AI for GPU kernel and model inference optimization. Background in speech and language processing."
 gem "github-pages", group: :jekyll_plugins
 # logo: file.png
 # show_downloads: true
